@@ -1,5 +1,9 @@
-## Hi there 👋
-Hi, saya Joko Bimantaro, Mahasiswa Politeknik Negeri Tanah laut, prodi Teknologi Informasi. Memiliki ketertarikan dengan dunia teknologi dan olahraga
+## Hi Semua 👋
+<p align="justify">
+Saya Joko Bimantaro, Mahasiswa Politeknik Negeri Tanah laut, prodi Teknologi Informasi. Memiliki ketertarikan dengan dunia teknologi dan olahraga
+</p>
+
+![Joko Bimantaro](img/punyaku.jpg)
 
 <!--
 **jokobim12/jokobim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
