@@ -4,15 +4,14 @@ Saya Joko Bimantaro, mahasiswa Politeknik Negeri Tanah Laut dari program studi T
 </p>
 
 <img src="img/header1.png" alt="Joko Bimantaro" width="100%" />
-
+<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jokobim12/jokobim12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jokobim12/jokobim12/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jokobim12/jokobim12/output/pacman-contribution-graph.svg">
 </picture>
 
-
-<img src ="img/punyaku.jpg"/>
+<img src ="img/punyaku.jpg" width="100%"/>
 
 
 ### Sklis
