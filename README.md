@@ -4,7 +4,6 @@ Saya Joko Bimantaro, mahasiswa Politeknik Negeri Tanah Laut dari program studi T
 </p>
 
 <img src="img/header1.png" alt="Joko Bimantaro" width="100%" />
-<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jokobim12/jokobim12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jokobim12/jokobim12/output/pacman-contribution-graph.svg">
